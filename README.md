@@ -16,7 +16,7 @@
 
 ## 🛠 Технологический стек
 - **Язык:** Python
-- **Библиотеки:** Pandas, NumPy, Scikit-learn, Scipy, Matplotlib, Seaborn, cv2.
+- **Библиотеки:** Pandas, NumPy, Pandas, Matplotlib, Seaborn, cv2, Ultralytics
 - **Инструменты:** Jupyter Notebook, Kaggle.
 
 ## 🚀 Как запустить
